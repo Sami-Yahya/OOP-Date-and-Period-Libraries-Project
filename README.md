@@ -111,5 +111,5 @@ int main()
 ## 🙏 Acknowledgments
 
 This project is part of the Programming Advices Training Track led by
-- 👨‍🏫 Dr. Mohamed Abouhadhood
-- 📚 Platform: Programming Advices
+- 👨‍🏫 Dr. Mohammed Abu-Hadhoud
+- 📚 Platform:  [ProgrammingAdvices](https://programmingadvices.com/).
