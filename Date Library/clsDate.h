@@ -1085,5 +1085,5 @@ public:
         return CompareDates(*this, Date2);
     }
 
-
 };
+
