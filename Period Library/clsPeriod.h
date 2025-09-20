@@ -24,7 +24,7 @@ public:
 			|| clsDate::IsDate1BeforeDate2(Period2.EndDate, Period1.StartDate));
     }
 
-	bool IsOverlapPeriods(clsPeriod Period2)
+	bool IsOverlapWith(clsPeriod Period2)
 	{
 		return IsOverlapPeriods(*this, Period2);
 	}
@@ -98,4 +98,5 @@ public:
 	}
 
 };
+
 
