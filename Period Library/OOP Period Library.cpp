@@ -18,7 +18,7 @@ int main() {
     cout << "\n";
 
     //You can check like this
-    cout << Period1.IsOverlapPeriods(Period2) << endl;
+    cout << Period1.IsOverlapWith(Period2) << endl;
 
     cout << Period1.CountOverlapDays(Period2) << endl;
 
