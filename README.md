@@ -1,4 +1,4 @@
-# 📌 Project 9: Date & Period Libraries (OOP)
+# 📌 Date & Period Libraries (OOP)
 
 ## 🔹 Overview
 This project was implemented as part of **Course 10** *OOP as it Should Be* in the **Programming Advices Track (https://programmingadvices.com/)** by **Dr. Mohammed Abu-Hadhoud**.  
